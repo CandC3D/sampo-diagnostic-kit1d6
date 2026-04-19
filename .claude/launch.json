@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "d6-preview",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["serve", "-l", "3006", "-s", "."],
+      "port": 3006
+    }
+  ]
+}
